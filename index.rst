@@ -14,7 +14,7 @@ Welcome to White Python Package's documentation!
 .. autofunction:: white_pythonpackage.sequence_blaster
 .. autofunction:: white_pythonpackage.sequence_cleanup
 .. autofunction:: white_pythonpackage.sequence_reader
-
+.. autofunction:: white_pythonpackage.blast_parser
 
 
 Indices and tables
